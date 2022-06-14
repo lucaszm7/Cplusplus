@@ -6,7 +6,7 @@
 #include <vector>
 
 
-int main()
+int iterators()
 {
 	std::vector<int> values = { 1, 2, 3, 4, 5 };
 
