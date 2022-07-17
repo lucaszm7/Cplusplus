@@ -190,6 +190,7 @@
     <ClCompile Include="src\52_threads.cpp" />
     <ClCompile Include="src\53_timing.cpp" />
     <ClCompile Include="src\54_multi_dimensional_arrays.cpp" />
+    <ClCompile Include="src\55_sorting.cpp" />
     <ClCompile Include="src\82_iterators.cpp" />
     <ClCompile Include="src\99_leetcode_01.cpp" />
     <ClCompile Include="src\99_leetcode_02.cpp" />
