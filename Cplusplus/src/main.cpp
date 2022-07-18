@@ -5,20 +5,10 @@
 #include <algorithm>
 #include <vector>
 
-struct TypePunning
-{
-	int x, y;
-};
 
 int main()
 {
-	int a = 50;
-	double v = *(double*)&a;
-	std::cout << v << std::endl;
 	
-	TypePunning e = { 5, 8 };
-	int* pos = (int*)&e;
-	std::cout << pos[0] << ", " << pos[1] << std::endl;
 
 	std::cin.get();
 	return 0;
