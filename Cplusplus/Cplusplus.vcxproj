@@ -194,10 +194,6 @@
     <ClCompile Include="src\56_type_punning.cpp" />
     <ClCompile Include="src\57_union.cpp" />
     <ClCompile Include="src\82_iterators.cpp" />
-    <ClCompile Include="src\99_leetcode_01.cpp" />
-    <ClCompile Include="src\99_leetcode_02.cpp" />
-    <ClCompile Include="src\99_leetcode_03.cpp" />
-    <ClCompile Include="src\99_linked_list.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\08_ponteiros.cpp" />
     <ClCompile Include="src\09_references.cpp" />
@@ -213,11 +209,6 @@
   <ItemGroup>
     <ClInclude Include="header\lzm.h" />
     <ClInclude Include="header\simone.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\Engine\Engine.vcxproj">
-      <Project>{9dfef971-2ae0-4cff-8594-4e2dfba0999d}</Project>
-    </ProjectReference>
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
