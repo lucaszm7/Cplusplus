@@ -9,11 +9,11 @@ class base_casting { int a; };
 
 class deri_casting : public base_casting { int b; };
 
-class anot_casting : public base_casting{ int c; };
+class anot_casting : public base_casting { int c; };
 
-int main()
+int casting()
 {
-	
+
 	double a = 5.23;
 	double b = (int)(a + 2.42);
 	std::cout << b << "\n";
@@ -22,7 +22,7 @@ int main()
 	std::cout << b << "\n";
 
 	// double* c = reinterpret_cast<base_casting*>(&a);
-	
+
 	deri_casting* derived = new deri_casting();
 
 	base_casting* base = derived;

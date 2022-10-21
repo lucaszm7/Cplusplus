@@ -196,6 +196,7 @@
     <ClCompile Include="src\55_sorting.cpp" />
     <ClCompile Include="src\56_type_punning.cpp" />
     <ClCompile Include="src\57_union.cpp" />
+    <ClCompile Include="src\59_casting.cpp" />
     <ClCompile Include="src\82_iterators.cpp" />
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\08_ponteiros.cpp" />
