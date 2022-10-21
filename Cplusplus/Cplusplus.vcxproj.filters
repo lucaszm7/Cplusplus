@@ -171,7 +171,7 @@
     <ClCompile Include="src\57_union.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="58_virtual_destructor.cpp">
+    <ClCompile Include="src\58_virtual_destructor.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

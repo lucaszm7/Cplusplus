@@ -155,7 +155,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="58_virtual_destructor.cpp" />
+    <ClCompile Include="src\58_virtual_destructor.cpp" />
     <ClCompile Include="src\22_array.cpp" />
     <ClCompile Include="src\10_11_classes.cpp" />
     <ClCompile Include="src\05_conditions.cpp" />
