@@ -1,5 +1,5 @@
 #include <iostream>
-#include <GLFW/glfw3.h>
+// #include <GLFW/glfw3.h>
 
 int static_dynamic_libraries()
 {
@@ -15,8 +15,8 @@ int static_dynamic_libraries()
 	// E para trabalhar com DLL, precisamos agora linkar com glfw3dll.lib
 	// e adicionar o arquivo .dll no mesmo local que o executável.
 
-	int a = glfwInit();
-	std::cout << a << std::endl;
+	// int a = glfwInit();
+	// std::cout << a << std::endl;
 
 	std::cin.get();
 	return 0;
