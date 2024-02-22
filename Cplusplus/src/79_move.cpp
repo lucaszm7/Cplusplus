@@ -118,11 +118,11 @@ MyStr CreateString()
 	return str;
 }
 
-int main()
+int move_79()
 {
 	MyEntity e("Name");
 	e.PrintName();
-	
+
 	MyStr str("Hello");
 
 	str.Print();
